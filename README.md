@@ -1,7 +1,7 @@
 # preparing-XNAT-data
+[Dataset](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)
 
 ### Task:
-[Dataset](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)
 
 Upload set C (1/3 of dataset) into XNAT to act as client in distributed deep learning tasks.
 
