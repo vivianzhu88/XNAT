@@ -2,9 +2,9 @@
 
 [Dataset](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)
 
-Upload set C (1/3 of dataset) into XNAT to act as client in distributed deep learning tasks.
+Task: Upload set C (1/3 of dataset) into XNAT to act as client in distributed deep learning tasks.
 
-Descriptions
+Descriptions:
 
 1. **IHD_convert.py** extracts files from dataset and alters DICOM headers so compatible with XNAT
 
